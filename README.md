@@ -1,7 +1,7 @@
 # Diabetes Prediction Model
 The model is trained on a dataset of patient records containing information such as blood glucose levels, body mass index (BMI), age, and potentially other relevant factors.
 <br/>
-Predicts the presence or absence of diabetes based on user-provided input values.
+* Predicts the presence or absence of diabetes based on user-provided input values.
 <br/>
 <br/>
 
